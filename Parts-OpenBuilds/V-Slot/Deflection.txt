@@ -1,0 +1,43 @@
+C Beam
+
+Top Bend1
+Inside the C Beam downwards towards the C Beam
+3.5 microns
+
+Side Bend1
+Bend on the Outside
+1.8 microns
+
+Side Bend2
+Bend on the inside
+4.7 microns
+
+
+
+20x80 Beam
+
+Top Bend1
+Bend on the Outside
+9.8 microns
+
+Side Bend1
+Bend on the Outside
+1.8 microns
+
+
+
+20x40 Beam
+
+Side Bend1
+Bend on the Outside
+8.6 microns
+
+
+
+Z = 3.5 + 1.8 = 5.3
+Y = 9.8 + 1.8 = 11.6
+X = 4.7 + 9.8 = 14.5
+
+acceleration = change in speed / time
+Force (Newtons) = mass (Kg) x accleration (m/s2)
+1 kg = 10 Newtons

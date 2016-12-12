@@ -1,0 +1,7 @@
+
+# Ignore files for Simulation renders
+
+.CWR
+.LOG
+PerformanceLog.txt
+X.BAT
